@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HandyAccount</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="firstPage">this is the first page</string>
+    <string name="account">account_page</string>
+    <string name="notice">notice</string>
+    <string name="title_diary">Diary</string>
+    <string name="title_notice">Notice</string>
+    <string name="title_account">Account</string>
+    <string name="Diary">this is my diary</string>
+    <string name="diary_source">Recent_diary</string>
+    <string name="title_activity_edit">EditActivity</string>
+</resources>
